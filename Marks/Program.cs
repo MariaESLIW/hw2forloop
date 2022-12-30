@@ -13,9 +13,6 @@ marks[9] = 7;
 
 double averageMark = 0.0;
 
-averageMark = (marks[0]+ marks[1] + marks[2] + marks[3] + marks[4] + marks[5] + marks[6] + marks[7] + marks[8] + marks[9]) / 10.0;
-Console.WriteLine("average Mark: " + averageMark);
-
 int maxMark = 0;
 int minMark = 10;
 int summaMarks = 0;
